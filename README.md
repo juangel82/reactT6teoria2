@@ -23,6 +23,6 @@ Componente FormularioClasico.jsx
   de esta manera evitamos crear un método manejar por cada elemento.
 
 ### Formulario con Formik y Yup
-
+Formulario.jsx
 Permite definir un esquema de validaciones y los diferentes mensajes de error
 
